@@ -1,3 +1,2 @@
-var name = 'World'
-name = 'home'
-console.log('Hello, ' + name)
+var a = 'Hello world!'
+console.log(a)
