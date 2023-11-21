@@ -1,7 +1,8 @@
 var person = {
     name: 'Victor',
     age: 30,
-    sex: 'male'
+    sex: 'male',
+    ocupation: 'police'
 }
 
-console.log(person.name)
+console.log(person)
