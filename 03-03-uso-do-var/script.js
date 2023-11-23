@@ -13,4 +13,5 @@ if (age > 18){
     var test = 35
 }
 
+test = 22
 console.log(test)
