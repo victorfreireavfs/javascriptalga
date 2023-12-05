@@ -1,6 +1,6 @@
 var eu = {
     nome : 'Victor',
-    idade : 55
+    idade : 16
 }
 
     function checaridade(pessoa){
